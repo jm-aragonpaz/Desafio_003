@@ -1,0 +1,26 @@
+{
+  "name": "desafio_003",
+  "version": "1.0.0",
+  "description": "Desafio 3 del curo de Backend de Coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jm-aragonpaz/Desafio_003.git"
+  },
+  "author": "Juan Manuel Aragon Paz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jm-aragonpaz/Desafio_003/issues"
+  },
+  "homepage": "https://github.com/jm-aragonpaz/Desafio_003#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
