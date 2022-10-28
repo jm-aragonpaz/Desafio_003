@@ -2,10 +2,10 @@
   "name": "desafio_003",
   "version": "1.0.0",
   "description": "Desafio 3 del curo de Backend de Coderhouse",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
